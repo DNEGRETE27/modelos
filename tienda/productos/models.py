@@ -19,3 +19,6 @@ class Producto(models.Model):
 
     def __str__(self):
         return str(self.nombre)
+
+
+
